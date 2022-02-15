@@ -1,5 +1,5 @@
 # Changelog
-# 2.8.3
+# 2.8.4
 ## 3.1.0
 
 - Allow stdlib 8.0.0 (GH #34)
